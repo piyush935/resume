@@ -1,0 +1,69 @@
+{
+	"basics": {
+		"name": "PIYUSH GUPTA",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kucp1024@iiitkota.ac.in",
+		"phone": "+919352029170",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech degree in Computer Science & Engineering.",
+		"location": {
+			"city": "Rawatbhata",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "piyush935",
+				"url": "https://www.github.com/piyush935/"
+			},
+			{
+				"network": "linkedin",
+				"username": "PIYUSH GUPTA",
+				"url": "https://www.linkedin.com/in/piyush-gupta-a370bb218/"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-08-01 //Date",
+		"endDate": "-------",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"Certificates": [{
+		"title": "Ethical Hacking and Cyber Security",
+		"awarder": "Techienest",
+		"date": "2019-11-09//Date"
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "GCP Cloud Platform", "C", "Cloud Computing"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton", "Table Tennis"]
+	}],
+	"references": []
+}
