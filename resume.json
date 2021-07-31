@@ -42,12 +42,10 @@
 		"highlights": []
 	}],
 	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
+		"institution": "Indian Institute of Information Technology,Kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2019-08-01 //Date",
-		"endDate": "-------",
-		"gpa": "---Add your CGPA ---",
 		"courses": [
 			"Computer Science & Engineering"
 		]
